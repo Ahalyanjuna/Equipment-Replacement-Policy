@@ -5,7 +5,6 @@ A company needs to decide when to replace its old machines to maximize profits.
 They have data on machine ages, revenues, operating costs, and salvage values. 
 Our project is about finding the best time to replace each machine using dynamic programming.
 The goal is to make decisions that bring in the most money while keeping costs in check.
-We have used python django framework to design our front end.
 
 Mathematical Explanation
 
